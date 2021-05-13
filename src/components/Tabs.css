@@ -1,0 +1,44 @@
+.mainRoot {
+  display: flex;
+  height: 90.6vh;
+}
+.mainRoot .MuiTabScrollButton-root.Mui-disabled {
+  opacity: 1 !important;
+}
+.mainRoot .MuiSvgIcon-fontSizeSmall {
+  font-size: 3rem !important;
+}
+.image__side {
+  width: 170px;
+  transform: rotate(180deg);
+}
+@media (prefers-reduced-motion: no-preference) {
+  .image__side {
+    animation: App-logo-spin infinite 20s linear;
+  }
+}
+@keyframes App-logo-spin {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}
+.on {
+  display: flex;
+  align-items: center;
+  justify-content: flex-end;
+  color: white;
+}
+.slider {
+  width: 470px;
+  cursor: pointer;
+}
+.slider-container {
+  margin: 10px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+}
