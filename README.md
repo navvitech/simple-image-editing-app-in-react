@@ -1,4 +1,8 @@
 # Image editing website made with Reactjs.
+
+### UI
+![UI](https://res.cloudinary.com/navtech/image/upload/v1657687462/Screenshot_2022-07-13_at_10.13.45_AM_bgqa7s.png) 
+
 [DEMO](https://res.cloudinary.com/navtech/video/upload/v1657687110/simplaimageediting_hbhlt8.mp4)
 
 # Getting Started with Create React App
